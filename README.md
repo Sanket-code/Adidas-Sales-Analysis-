@@ -14,3 +14,5 @@ Features & Highlights
 -👟 Product Category Analysis highlighting top-performing products.
 -🛍️ Retailer Comparison for identifying top revenue contributors.
 -🔍 Interactive Filters (by region) for deeper insights.
+
+Dashboard Preview -  https://github.com/Sanket-code/Adidas-Sales-Analysis-/blob/main/Sales%20Dashboard.png
