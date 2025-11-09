@@ -1,7 +1,5 @@
 # Adidas Sales Analysis
 
-Adidas Sales Analysis Dashboard
-
 This interactive dashboard provides a comprehensive analysis of Adidas sales performance across different regions, products, and retailers. It helps visualize key business metrics such as total sales, profit, units sold, and operating margin to support data-driven decision-making.
 
 Tech Stack
